@@ -30,3 +30,15 @@ Solution: If you have a very critical webservice for your application and it's r
 Main shell script to monitor all response times: curlSoapWS.sh
 
 Read the entire blog content here: http://community.wlsdm.com/topic/38/monitor-webservice-response-times-with-curl-alldetails-on-weblogic
+
+# Output on WLSDM Smart Dashboard:
+
+![Output on WLSDM Smart Dashboard](http://community.wlsdm.com/uploads/files/upload-03603241-acbb-4383-9b20-0828f55e1ce1.png)
+
+# Alarm/Notification Email:
+
+![Alarm/Notification Email](http://community.wlsdm.com/uploads/files/upload-7c0d6172-7bc1-4529-8327-cebcb3b52e49.png)
+
+# Requests Over Threshold:
+
+![Alarm/Notification Email](http://community.wlsdm.com/uploads/files/upload-7c0d6172-7bc1-4529-8327-cebcb3b52e49.png)
