@@ -10,6 +10,8 @@ WATCH, LEARN then DO IT BY YOURSELF! --> https://youtu.be/TWvWG3RpvrE
 
 ![Monitor Remote WebService Performance with CURL on Oracle WebLogic Server](http://community.wlsdm.com/uploads/files/upload-6f3ef38b-f932-4d56-8c3f-2cef8689c12f.png)
 
+![Dynamic CURL Email with WLSDM Custom Action](http://www.admineer.com/wp-content/uploads/2018/01/dynamic_3rdparty_email.png)
+
 
 # Blog Post-2 (Edited Version after screen cast tutorial):
 
