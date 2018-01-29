@@ -19,7 +19,7 @@ Part-1: How to monitor back-end remote Webservice response times as a consumer w
 
 Part-2: How to inform 3rd party system responsible person automatically with a dynamic html email?
 
-Read the new blog post here about the screen cast and source codes: http://www.admineer.com/blog/troug-presentation-advanced-weblogic-monitoring-custom-weblogic-jmx-development-and-devops-automation/
+Read the new blog post here about the screen cast and source codes: http://www.admineer.com/blog/how-to-monitor-remote-webservice-response-times-with-curl-on-weblogic-then-auto-inform-3rd-party
 
 
 # Blog Post-1 (The first original one):
