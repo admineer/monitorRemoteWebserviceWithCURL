@@ -6,7 +6,7 @@ Part-2: How to inform 3rd party system responsible person automatically with a d
 
 Youtube screencast tutorial is available here:
 
-WATCH, LEARN then DO IT BY YOURSELF! --> https://youtu.be/-dfoPtgmhWM
+WATCH, LEARN then DO IT BY YOURSELF! --> https://youtu.be/TWvWG3RpvrE
 
 ![Monitor Remote WebService Performance with CURL on Oracle WebLogic Server](http://community.wlsdm.com/uploads/files/upload-6f3ef38b-f932-4d56-8c3f-2cef8689c12f.png)
 
